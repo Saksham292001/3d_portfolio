@@ -197,7 +197,7 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'Sorting Visualizer',
         description: 'Developed an interactive sorting visualizer web app, showcasing algorithms like Bubble Sort and Quick Sort visually.',
-        link: 'https://sv-cf7hkq654-saksham292001s-projects.vercel.app/',
+        link: 'https://sv-rust.vercel.app/',
     },
     {
         iconUrl: snapgram,
